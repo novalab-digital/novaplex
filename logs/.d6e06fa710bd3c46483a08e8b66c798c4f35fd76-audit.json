@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/adelghotmi/novaplex-cinematic/logs/.d6e06fa710bd3c46483a08e8b66c798c4f35fd76-audit.json",
+    "files": [
+        {
+            "date": 1779011448533,
+            "name": "/Users/adelghotmi/novaplex-cinematic/logs/mcp-puppeteer-2026-05-17.log",
+            "hash": "71e705d0b0dca79ccc9ebab2a5153b38eae6db77c2013afb4ddce4e5a6c0795c"
+        }
+    ],
+    "hashType": "sha256"
+}
