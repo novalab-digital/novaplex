@@ -1,1 +1,8 @@
 .vercel
+.DS_Store
+
+# Source/master videos — too large to deploy. The web-ready hero lives in video/hero.mp4
+npxvideos/
+
+# Internal design notes (kept local, not deployed)
+docs/superpowers/
